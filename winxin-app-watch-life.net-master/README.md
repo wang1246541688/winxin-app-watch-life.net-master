@@ -50,7 +50,7 @@
 
 # 技术支持微信：iamxjb
 
-![iamxjb](https://www.watch-life.net/images/iamxjbweixin.jpg) 
+![iamxjb](https://www.cone-shaped.top/wp-content/uploads/2018/12/1微信.jpg) 
 
 # 安装使用说明文档
 
