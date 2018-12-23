@@ -48,7 +48,7 @@
 
 # 开源协议：MIT
 
-# 技术支持微信：iamxjb
+# 技术支持微信：wwjc-2018
 
 ![iamxjb](https://www.cone-shaped.top/wp-content/uploads/2018/12/1微信.jpg) 
 
