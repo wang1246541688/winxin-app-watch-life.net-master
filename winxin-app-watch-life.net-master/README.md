@@ -1,8 +1,3 @@
-# WordPress版微信小程序
-
-![wordpress微信小程序](https://www.watch-life.net/images/2017/06/winxinapp-wordpress-watch-life-new-700.jpg)
-
-![wordpress微信小程序](https://www.watch-life.net/images/wordpresswinxinapp700.png) 
 
 # 功能清单：
 
